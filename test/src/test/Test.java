@@ -7,11 +7,7 @@ System.out.println("nowy");
 System.out.println("nowy");
 System.out.println("nowy4");
 
-System.out.println("nowy");
-System.out.println("nowy4");
-System.out.println("nowy");
-System.out.println("nowy4");
-System.out.println("nowy");
+
 System.out.println("nowy4");
 	}
 
