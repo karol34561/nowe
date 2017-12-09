@@ -6,6 +6,7 @@ public class Test {
 System.out.println("Dodanie nowej zmiany");
 System.out.println("Dodanie nowej zmiany");
 System.out.println("Dodanie nowej zmiany");
+
 	}
 
 }
